@@ -1,0 +1,694 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Vingadores: Ultimato",
+      "sinopse": "Após os eventos devastadores de Vingadores Guerra Infinita , o universo está em ruínas, e com a ajuda de aliados os Vingadores se reúnem para desfazer as ações de Thanos e restaurar a ordem.",
+      "duracao": "3 h 1 min",
+      "anoLancamento": "2019",
+      "classificacao": 12,
+      "notaMedia": 2.0555555555555554,
+      "qtdAvaliacao": 6,
+      "linkStreaming": "https://www.disneyplus.com/pt-br/movies/vingadores-ultimato-da-marvel-studios/aRbVJUb2h2Rf",
+      "img": "Vingadores_Ultimato.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Ação"
+        },
+        {
+          "id": 2,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 3,
+          "categoria": "Drama"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Anthony Russo,"
+        },
+        {
+          "id": 2,
+          "diretor": "Joe Russo"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Christopher Markus,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Stephen McFeely,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Stan Lee"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Robert Downey Jr.,"
+        },
+        {
+          "id": 2,
+          "ator": "Chris Evans,"
+        },
+        {
+          "id": 3,
+          "ator": "Mark Ruffalo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "As Branquelas",
+      "sinopse": "Dois agentes desonestos do FBI vão secretamente proteger as irmãs Wilson, herdeiras de um hotel, de um plano de seqüestro.",
+      "duracao": "1 h 49 min",
+      "anoLancamento": "2004",
+      "classificacao": 12,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.netflix.com/br/title/60034587?source=35",
+      "img": "As_Branquelas.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Comédia"
+        },
+        {
+          "id": 2,
+          "categoria": "Policial"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Keenen Ivory Wayans"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Keenen Ivory Wayans,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Marlon Wayans,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Shawn Wayans"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Marlon Wayans,"
+        },
+        {
+          "id": 2,
+          "ator": "Shawn Wayans,"
+        },
+        {
+          "id": 3,
+          "ator": "Terry Crews"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Titanic",
+      "sinopse": "Uma aristocrata de dezessete anos se apaixona por um artista gentil mas pobre a bordo do luxuoso e desafortunado Titanic.",
+      "duracao": "3 h 14 min",
+      "anoLancamento": "1997",
+      "classificacao": 12,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.starplus.com/pt-br/movies/titanic/1vXLGiOUqEP9",
+      "img": "Titanic.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Drama"
+        },
+        {
+          "id": 2,
+          "categoria": "Romance"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "James Cameron"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "James Cameron"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Leonardo DiCaprio,"
+        },
+        {
+          "id": 2,
+          "ator": "Kate Winslet,"
+        },
+        {
+          "id": 3,
+          "ator": "Billy Zane"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Homem-Aranha: Sem Volta para Casa",
+      "sinopse": "Com a identidade do Homem-Aranha revelada, Peter pede ajuda ao Doutor Strange. Quando um feitiço corre mal, inimigos perigosos de outros mundos começam a aparecer, forçando Peter a descobrir o que realmente significa ser o Homem-Aranha.",
+      "duracao": "2 h 28 min",
+      "anoLancamento": "2021",
+      "classificacao": 12,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.hbomax.com/br/pt/feature/urn:hbo:feature:GYqeASQeezEo8igEAAACK",
+      "img": "Homem_Aranha.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Ação"
+        },
+        {
+          "id": 2,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 3,
+          "categoria": "Fantasia"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Jon Watts"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Chris McKenna,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Erik Sommers,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Stan Lee"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Tom Holland,"
+        },
+        {
+          "id": 2,
+          "ator": "Zendaya,"
+        },
+        {
+          "id": 3,
+          "ator": "Benedict Cumberbatch"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Velozes e Furiosos 9",
+      "sinopse": "Dom e sua equipe devem enfrentar um terrorista internacional que se revela ser o irmão afastado de Dom e Mia.",
+      "duracao": "2 h 23 min",
+      "anoLancamento": "2021",
+      "classificacao": 14,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://globoplay.globo.com/velozes-furiosos-9/t/WzmnXCy68x/",
+      "img": "Velozes_Furiosos.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Ação"
+        },
+        {
+          "id": 2,
+          "categoria": "Policial"
+        },
+        {
+          "id": 3,
+          "categoria": "Suspense"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Justin Lin"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Daniel Casey,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Justin Lin,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Alfredo Botello"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Vin Diesel,"
+        },
+        {
+          "id": 2,
+          "ator": "Michelle Rodriguez,"
+        },
+        {
+          "id": 3,
+          "ator": "Jordana Brewster"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Invocação do Mal 3: A Ordem do Demônio",
+      "sinopse": "Terceira parte da saga de Invocação do Mal.",
+      "duracao": "1 h 52 min",
+      "anoLancamento": "2021",
+      "classificacao": 14,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.hbomax.com/br/pt/feature/urn:hbo:feature:GYOYX9gphVFOLNgEAAAQR",
+      "img": "Invocacao_Mal.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Terror"
+        },
+        {
+          "id": 2,
+          "categoria": "Mistério"
+        },
+        {
+          "id": 3,
+          "categoria": "Suspense"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Michael Chaves"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "David Leslie Johnson-McGoldrick, "
+        },
+        {
+          "id": 2,
+          "roteirista": "James Wan,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Chad Hayes"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Patrick Wilson,"
+        },
+        {
+          "id": 2,
+          "ator": "Vera Farmiga,"
+        },
+        {
+          "id": 3,
+          "ator": "Ruairi O'Connor"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Harry Potter e as Relíquias da Morte - Parte 2",
+      "sinopse": "Harry, Ron e Hermione devem escapar a Voldemort e tentar trabalhar em conjunto para localizar e aniquilar os Horcruxes, que contêm pedaços da alma de Voldemort.",
+      "duracao": "2 h 10 min",
+      "anoLancamento": "2011",
+      "classificacao": 14,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.hbomax.com/br/pt/feature/urn:hbo:feature:GXssRwQESq8NMvwEAAABY",
+      "img": "Harry_Potter.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 2,
+          "categoria": "Família"
+        },
+        {
+          "id": 3,
+          "categoria": "Fantasia"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "David Yates"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Steve Kloves,"
+        },
+        {
+          "id": 2,
+          "roteirista": "J.K. Rowling"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Daniel Radcliffe,"
+        },
+        {
+          "id": 2,
+          "ator": "Emma Watson,"
+        },
+        {
+          "id": 3,
+          "ator": "Rupert Grint"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Toy Story 4",
+      "sinopse": "Quando um novo brinquedo chamado Forky se une a Woody e à turma, uma viagem ao lado de velhos e novos amigos revela o quão grande o mundo pode ser para um brinquedo.",
+      "duracao": "1 h 40 min",
+      "anoLancamento": "2019",
+      "classificacao": "Livre",
+      "notaMedia": 5,
+      "qtdAvaliacao": 1,
+      "linkStreaming": "https://www.disneyplus.com/pt-br/movies/toy-story-4/2CtjW4tKzIHp",
+      "img": "Toy_Story.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Animação"
+        },
+        {
+          "id": 2,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 3,
+          "categoria": "Comédia"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Josh Cooley"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "John Lasseter,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Andrew Stanton,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Josh Cooley"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Tom Hanks,"
+        },
+        {
+          "id": 2,
+          "ator": "Tim Allen,"
+        },
+        {
+          "id": 3,
+          "ator": "Annie Potts"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Jogos Vorazes: A Esperança - O Final",
+      "sinopse": "Katniss e uma equipe de rebeldes do Distrito 13 se preparam para a batalha final que decidirá o destino de Panem.",
+      "duracao": "2 h 17 min",
+      "anoLancamento": "2015",
+      "classificacao": 12,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://globoplay.globo.com/jogos-vorazes-a-esperanca-o-final/t/2G7kkqQ9N2/",
+      "img": "Jogos_Vorazes.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Ação"
+        },
+        {
+          "id": 2,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 3,
+          "categoria": "Ficção científica"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Francis Lawrence"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Peter Craig,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Danny Strong,"
+        },
+        {
+          "id": 3,
+          "roteirista": "Suzanne Collins"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Jennifer Lawrence,"
+        },
+        {
+          "id": 2,
+          "ator": "Josh Hutcherson,"
+        },
+        {
+          "id": 3,
+          "ator": "Liam Hemsworth"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "A Saga Crepúsculo: Amanhecer - Parte 2",
+      "sinopse": "Depois do nacimento da Renesmee, os Cullens juntam os clãs de vampiros para proteger a menina dos Volturi.",
+      "duracao": "1 h 55 min",
+      "anoLancamento": "2012",
+      "classificacao": 12,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.starplus.com/pt-br/movies/a-saga-crepusculo-amanhecer-parte-2/56afiTmyelf4",
+      "img": "Crepusculo.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 2,
+          "categoria": "Drama"
+        },
+        {
+          "id": 3,
+          "categoria": "Fantasia"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Bill Condon"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Melissa Rosenberg,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Stephenie Meyer"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Kristen Stewart,"
+        },
+        {
+          "id": 2,
+          "ator": "Robert Pattinson,"
+        },
+        {
+          "id": 3,
+          "ator": "Taylor Lautner"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Bird Box",
+      "sinopse": "Cinco anos depois duma presença maligna que não pode ser vista e que faz que as pessoas se suicidar, uma mãe e suas crianças procuram segurança.",
+      "duracao": "2 h 04 min",
+      "anoLancamento": "2018",
+      "classificacao": 16,
+      "notaMedia": 0,
+      "qtdAvaliacao": 0,
+      "linkStreaming": "https://www.netflix.com/br/title/80196789",
+      "img": "Bird_Box.jpg",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Terror"
+        },
+        {
+          "id": 2,
+          "categoria": "Mistério"
+        },
+        {
+          "id": 3,
+          "categoria": "Ficção científica"
+        }
+      ],
+      "diretores": [
+        {
+          "id": 1,
+          "diretor": "Susanne Bier"
+        }
+      ],
+      "roteiristas": [
+        {
+          "id": 1,
+          "roteirista": "Eric Heisserer,"
+        },
+        {
+          "id": 2,
+          "roteirista": "Josh Malerman"
+        }
+      ],
+      "atores": [
+        {
+          "id": 1,
+          "ator": "Sandra Bullock,"
+        },
+        {
+          "id": 2,
+          "ator": "Trevante Rhodes,"
+        },
+        {
+          "id": 3,
+          "ator": "John Malkovich"
+        }
+      ]
+    }
+  ],
+  "avaliacoes": [
+    {
+      "nomeUsuario": "Flávio",
+      "genero": "Masculino",
+      "dataNascimento": "2002-02-01",
+      "comentario": "Muito bom",
+      "filmeId": 1,
+      "nota": 10,
+      "filme": "Vingadores: Ultimato",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Ação"
+        },
+        {
+          "id": 2,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 3,
+          "categoria": "Drama"
+        }
+      ],
+      "anoLancamento": "2019",
+      "duracao": "3 h 1 min",
+      "id": 1
+    },
+    {
+      "nomeUsuario": "Ruan",
+      "genero": "Masculino",
+      "dataNascimento": "2011-02-09",
+      "comentario": "Daora",
+      "filmeId": 8,
+      "nota": 5,
+      "filme": "Toy Story 4",
+      "categorias": [
+        {
+          "id": 1,
+          "categoria": "Animação"
+        },
+        {
+          "id": 2,
+          "categoria": "Aventura"
+        },
+        {
+          "id": 3,
+          "categoria": "Comédia"
+        }
+      ],
+      "anoLancamento": "2019",
+      "duracao": "1 h 40 min",
+      "id": 2
+    }
+  ]
+}
